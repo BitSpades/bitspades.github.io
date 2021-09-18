@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.be26fd7e5fb9f0c921a7965583aaa1ba.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/precache-manifest.a1bdf86ed7ad61339343b33b2191b12b.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 import { register } from "register-service-worker";
 
