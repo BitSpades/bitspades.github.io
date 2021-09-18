@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+// exports.__esModule = true;
 var register_service_worker_1 = require("register-service-worker");
 (0, register_service_worker_1.register)(process.env.BASE_URL + "service-worker.js", {
     ready: function () {
