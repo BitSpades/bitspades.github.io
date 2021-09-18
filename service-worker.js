@@ -1,34 +1,34 @@
-/**
- * Welcome to your Workbox-powered service worker!
- *
- * You'll need to register this file in your web app and you should
- * disable HTTP caching for this file too.
- * See https://goo.gl/nhQhGp
- *
- * The rest of the code is auto-generated. Please don't update this file
- * directly; instead, make changes to your Workbox build configuration
- * and re-run your build process.
- * See https://goo.gl/2aRDsh
- */
+import { register } from "register-service-worker";
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
-
-importScripts(
-  "/precache-manifest.be26fd7e5fb9f0c921a7965583aaa1ba.js"
-);
-
-workbox.core.setCacheNameDetails({prefix: "bitspades"});
-
-self.addEventListener('message', (event) => {
-  if (event.data && event.data.type === 'SKIP_WAITING') {
-    self.skipWaiting();
+register(`${process.env.BASE_URL}service-worker.js`, {
+  ready() {
+    console.log("App is being served from cache by a service worker");
+  },
+  registered() {
+    console.log("Service worker has been registered.");
+  },
+  cached() {
+    console.log("Content has been cached for offline use.");
+  },
+  updatefound() {
+    console.log("New content is downloading.");
+  },
+  updated(registration) {
+    // New content is available, refresh the page
+    caches.keys().then((names) => {
+      for (const name of names) {
+        caches.delete(name);
+      }
+    });
+    registration.update();
+    location.reload();
+  },
+  offline() {
+    console.log("No internet connection found. App is running in offline mode.");
+  },
+  error(error) {
+    alert("ERROR!");
+    console.log(error);
+    // console.error("Error during service worker registration:", error);
   }
 });
-
-/**
- * The workboxSW.precacheAndRoute() method efficiently caches and responds to
- * requests for URLs in the manifest.
- * See https://goo.gl/S9QRab
- */
-self.__precacheManifest = [].concat(self.__precacheManifest || []);
-workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
