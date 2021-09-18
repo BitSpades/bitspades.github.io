@@ -24,10 +24,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-64771d2b.65d1a097.css"
   },
   {
-    "revision": "83ec6123190723fd69726c7db5d8d334",
-    "url": "/favicon.ico"
-  },
-  {
     "revision": "168b6feb3685be309a58b8be8100dd26",
     "url": "/favicon.png"
   },
@@ -46,70 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "168b6feb3685be309a58b8be8100dd26",
     "url": "/img/icon.168b6feb.png"
-  },
-  {
-    "revision": "14d03b5e34561fc75cc26ac07aa7fdca",
-    "url": "/img/icons/android-chrome-192x192.png"
-  },
-  {
-    "revision": "f4ff08aad459999eda5a99e47b5f482f",
-    "url": "/img/icons/android-chrome-512x512.png"
-  },
-  {
-    "revision": "14d03b5e34561fc75cc26ac07aa7fdca",
-    "url": "/img/icons/android-chrome-maskable-192x192.png"
-  },
-  {
-    "revision": "f4ff08aad459999eda5a99e47b5f482f",
-    "url": "/img/icons/android-chrome-maskable-512x512.png"
-  },
-  {
-    "revision": "8a8aa4d52a11e084b77516900bce8372",
-    "url": "/img/icons/apple-touch-icon-120x120.png"
-  },
-  {
-    "revision": "bf31b7a7fe4205d777962b8bb7db47de",
-    "url": "/img/icons/apple-touch-icon-152x152.png"
-  },
-  {
-    "revision": "a89218f6d4780f9125d32c89eed45c7b",
-    "url": "/img/icons/apple-touch-icon-180x180.png"
-  },
-  {
-    "revision": "0f02d8a921b6a53b5d21fdd18033694c",
-    "url": "/img/icons/apple-touch-icon-60x60.png"
-  },
-  {
-    "revision": "35f4dfeb6af307f52f142b8f58bec724",
-    "url": "/img/icons/apple-touch-icon-76x76.png"
-  },
-  {
-    "revision": "a89218f6d4780f9125d32c89eed45c7b",
-    "url": "/img/icons/apple-touch-icon.png"
-  },
-  {
-    "revision": "f2b5369d622cf6053d85c398a227c329",
-    "url": "/img/icons/favicon-16x16.png"
-  },
-  {
-    "revision": "b17d3403387420d6846fdec1b7602efc",
-    "url": "/img/icons/favicon-32x32.png"
-  },
-  {
-    "revision": "83ec6123190723fd69726c7db5d8d334",
-    "url": "/img/icons/favicon.ico"
-  },
-  {
-    "revision": "e7cb45f5e86964af4df3b462f4c43f49",
-    "url": "/img/icons/msapplication-icon-144x144.png"
-  },
-  {
-    "revision": "9b50ce8a3cd81aedfb0988c1659634e4",
-    "url": "/img/icons/mstile-150x150.png"
-  },
-  {
-    "revision": "40fbdf8e401d11c9860cbefa0f40e9d3",
-    "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
     "revision": "352aaf26aa2b9eddddbee65f6475af0b",
