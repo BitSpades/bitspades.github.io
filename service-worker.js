@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1fd6932081a389e49f357c168dc6a37d.js"
+  "/precache-manifest.ae082e14cb1a33564695a0956b22319e.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "vue-books-pwa"});
+workbox.core.setCacheNameDetails({prefix: "bitspades"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
