@@ -1,10 +1,11 @@
 /* eslint-disable no-undef, no-restricted-globals */
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/5.0.0/workbox-sw.js");
 
 // This is the code piece that GenerateSW mode can't provide for us.
 // This code listens for the user's confirmation to update the app.
-self.addEventListener('message', event => {
+self.addEventListener("message", event => {
   console.log(event);
-  if (event.data && event.data.type === 'SKIP_WAITING') {
+  if (event.data && event.data.type === "SKIP_WAITING") {
     self.skipWaiting();
   }
 });
