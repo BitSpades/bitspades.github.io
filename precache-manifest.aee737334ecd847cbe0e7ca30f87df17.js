@@ -1,123 +1,55 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee997338831dd08b855d",
+    "revision": "e53a4b43228ca833efe0",
     "url": "/css/app~5a11b65b.58e18ea3.css"
   },
   {
-    "revision": "728173140054678f9347",
-    "url": "/css/app~748942c6.b7b0f413.css"
+    "revision": "43e7b2ebdc04b4aa6456",
+    "url": "/css/app~748942c6.c204786b.css"
   },
   {
-    "revision": "9cea64b5116d75d66273",
-    "url": "/css/app~f71cff67.893bb44c.css"
+    "revision": "96d2766b3df84b6acb2f",
+    "url": "/css/app~f71cff67.ced16ceb.css"
   },
   {
-    "revision": "8b7cb4bccd7fbcf72f08",
-    "url": "/css/chunk-157b6f06.de5b1eff.css"
+    "revision": "10d353a8fe2d6b2f8bf4",
+    "url": "/css/chunk-57a77fcb.09c1be4b.css"
   },
   {
-    "revision": "1a00e77d5ab6dc0e3192",
-    "url": "/css/chunk-1fa02abd.9495eada.css"
+    "revision": "07d7ca8e70c088aa0b46",
+    "url": "/css/chunk-7099e636.d5ceb187.css"
   },
   {
     "revision": "168b6feb3685be309a58b8be8100dd26",
     "url": "/favicon.png"
   },
   {
-    "revision": "f7aa2e0387a1da2d860b93981beec012",
-    "url": "/img/bg-felt-game.f7aa2e03.jpg"
+    "revision": "eb54e02b3782667edd473976648de9c9",
+    "url": "/img/bg.eb54e02b.webp"
   },
   {
-    "revision": "89b28ad6db184b10f66ff0fcfe0cdc59",
-    "url": "/img/bg-felt.89b28ad6.jpg"
+    "revision": "4e21f77abb1970332113b5cc676a064e",
+    "url": "/img/coin-heads.4e21f77a.webp"
   },
   {
-    "revision": "ea363524956051306a3b2b13a02f6e10",
-    "url": "/img/bg-side-nav.ea363524.jpg"
-  },
-  {
-    "revision": "edead7fbbef690dac521581f845cc4f5",
-    "url": "/img/bg-wood-1.edead7fb.jpg"
-  },
-  {
-    "revision": "3e069eb79dc02d9141ad5a4ed972c956",
-    "url": "/img/bg-wood-2.3e069eb7.jpg"
-  },
-  {
-    "revision": "cbafc667ede6e66ee0de5bea7967b96a",
-    "url": "/img/bg-wood-3.cbafc667.jpg"
-  },
-  {
-    "revision": "ef0b56645aa207de7598de418eec0f83",
-    "url": "/img/bg-wood-4.ef0b5664.jpg"
-  },
-  {
-    "revision": "f53ea982abd674890edb82767db21f92",
-    "url": "/img/bg-wood-5.f53ea982.jpg"
-  },
-  {
-    "revision": "85a6ba7c056e73a30240b89065b45264",
-    "url": "/img/bg-wood-6.85a6ba7c.jpg"
-  },
-  {
-    "revision": "bc26bda950e38ee7527b53b237c46296",
-    "url": "/img/bg.bc26bda9.jpg"
-  },
-  {
-    "revision": "3edda98488d0b211feb33ada6a814102",
-    "url": "/img/coin-heads.3edda984.png"
-  },
-  {
-    "revision": "eedaaa2bcb94dca4763d0cf69cc88ffd",
-    "url": "/img/coin-tails.eedaaa2b.png"
+    "revision": "d55cc75fec9818a621760859bacb71d0",
+    "url": "/img/coin-tails.d55cc75f.webp"
   },
   {
     "revision": "d3254f631fe34357cd7d7129500bd56b",
     "url": "/img/disconnect.d3254f63.svg"
   },
   {
-    "revision": "168b6feb3685be309a58b8be8100dd26",
-    "url": "/img/icon.168b6feb.png"
+    "revision": "7e3991113ac56febb241bb1f7800f41b",
+    "url": "/img/felt-game.7e399111.webp"
   },
   {
-    "revision": "352aaf26aa2b9eddddbee65f6475af0b",
-    "url": "/img/logo-admin.352aaf26.png"
+    "revision": "e90e4eadb9fbec7f2166eba31489dcf0",
+    "url": "/img/felt.e90e4ead.webp"
   },
   {
-    "revision": "3aff5f1e38ed965091e974086a973500",
-    "url": "/img/logo-coin.3aff5f1e.png"
-  },
-  {
-    "revision": "79b2051ca6a25b1290fd39a7e9bc5507",
-    "url": "/img/logo-dice.79b2051c.png"
-  },
-  {
-    "revision": "7d1f0aaa40a3f4d8e9b2334e7539624c",
-    "url": "/img/logo-home.7d1f0aaa.png"
-  },
-  {
-    "revision": "1cf70901dee892ca2febc5f19d15a1c0",
-    "url": "/img/logo-liquidity.1cf70901.png"
-  },
-  {
-    "revision": "48548f41b3f8d23147668e65b749d4e8",
-    "url": "/img/logo-roulette.48548f41.png"
-  },
-  {
-    "revision": "195d7ab8811daaccf09f331b80330d57",
-    "url": "/img/logo-settings.195d7ab8.png"
-  },
-  {
-    "revision": "5a80e43371341ddb38a95c6024733e07",
-    "url": "/img/logo-telegram.5a80e433.png"
-  },
-  {
-    "revision": "1c2197a2fd0331bc4da4d6388a5a8e6f",
-    "url": "/img/logo-trade.1c2197a2.png"
-  },
-  {
-    "revision": "677a347b2bba7792281584f36c628450",
-    "url": "/img/logo-twitter.677a347b.png"
+    "revision": "cfd5238d1bd55d9bff1227f44dac8a04",
+    "url": "/img/icon.cfd5238d.webp"
   },
   {
     "revision": "c9e49de9715514edb52aa51143a0dd68",
@@ -128,32 +60,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/polygon.fe9709ee.svg"
   },
   {
-    "revision": "c4d0e15b8a5315bc11d86fbcfe44f4ce",
+    "revision": "e0d6a7de6360437a08c5eced2455f6b4",
+    "url": "/img/side-nav.e0d6a7de.webp"
+  },
+  {
+    "revision": "9e03412eb6fbc09269293504b2431352",
+    "url": "/img/wood-table.9e03412e.webp"
+  },
+  {
+    "revision": "6ca0933b857aac1331adf56fd0fda975",
     "url": "/index.html"
   },
   {
-    "revision": "ee997338831dd08b855d",
-    "url": "/js/app~5a11b65b.b591bdcb.js"
+    "revision": "e53a4b43228ca833efe0",
+    "url": "/js/app~5a11b65b.60ac3aa5.js"
   },
   {
-    "revision": "728173140054678f9347",
-    "url": "/js/app~748942c6.67f4bd9e.js"
+    "revision": "43e7b2ebdc04b4aa6456",
+    "url": "/js/app~748942c6.874ea9d7.js"
   },
   {
-    "revision": "9cea64b5116d75d66273",
-    "url": "/js/app~f71cff67.2f75c649.js"
-  },
-  {
-    "revision": "8b7cb4bccd7fbcf72f08",
-    "url": "/js/chunk-157b6f06.db52a089.js"
-  },
-  {
-    "revision": "1a00e77d5ab6dc0e3192",
-    "url": "/js/chunk-1fa02abd.0a7e8e5c.js"
+    "revision": "96d2766b3df84b6acb2f",
+    "url": "/js/app~f71cff67.c206c86e.js"
   },
   {
     "revision": "f670e2bf2389f6a6a267",
     "url": "/js/chunk-2d0b9d35.bfdb207e.js"
+  },
+  {
+    "revision": "10d353a8fe2d6b2f8bf4",
+    "url": "/js/chunk-57a77fcb.a35459d9.js"
+  },
+  {
+    "revision": "07d7ca8e70c088aa0b46",
+    "url": "/js/chunk-7099e636.d9ec0b2a.js"
   },
   {
     "revision": "b8919bf601f44913e972",
@@ -276,7 +216,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robots.txt"
   },
   {
-    "revision": "97c56447e83c40db9668894729aa7c55",
+    "revision": "94ce86b4d22c1866eba4a5cd1be1ef30",
     "url": "/service-worker.js"
   }
 ]);
