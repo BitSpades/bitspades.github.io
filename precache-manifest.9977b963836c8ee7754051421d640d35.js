@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/app~748942c6.c204786b.css"
   },
   {
-    "revision": "c3cfd431971b9057d2fa",
+    "revision": "b14a4ccb2eea48e1913c",
     "url": "/css/app~f71cff67.05bcfea6.css"
   },
   {
@@ -56,7 +56,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/wood-table.9e03412e.webp"
   },
   {
-    "revision": "931134282d1d06a942a15e53d9848270",
+    "revision": "88254f649038656480f6c593b8c2e435",
     "url": "/index.html"
   },
   {
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/app~748942c6.3a6165bd.js"
   },
   {
-    "revision": "c3cfd431971b9057d2fa",
-    "url": "/js/app~f71cff67.0a379140.js"
+    "revision": "b14a4ccb2eea48e1913c",
+    "url": "/js/app~f71cff67.3feb07d1.js"
   },
   {
     "revision": "2d050ad8edd11aa9a115",
