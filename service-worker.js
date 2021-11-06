@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.6ee18dfaf6f21b6596c87089571c615e.js"
+  "/precache-manifest.3a5b9703a3c401e7595ea19f1b9ee839.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bitspades"});
