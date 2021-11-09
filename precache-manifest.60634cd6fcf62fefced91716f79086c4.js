@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff1583ba14bfb2c08722",
+    "revision": "80886749c17852c2e89c",
     "url": "/css/app~069f6afa.1d7dd277.css"
   },
   {
-    "revision": "fed93938231c01a57f58",
-    "url": "/css/app~5a11b65b.4d3d191b.css"
+    "revision": "075346b75790f748cb44",
+    "url": "/css/app~5a11b65b.df88d391.css"
   },
   {
     "revision": "e571809c69cc384357d4",
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/app~8fece612.2c57a73e.css"
   },
   {
-    "revision": "53b232ac8d42bb49488e",
-    "url": "/css/chunk-3ed1c552.bf89e96f.css"
-  },
-  {
     "revision": "10ad2a974816740c87c8",
     "url": "/css/chunk-72198172.84ce8cf4.css"
+  },
+  {
+    "revision": "376fc66d952148edbe85",
+    "url": "/css/chunk-92f7fec0.ea57a012.css"
   },
   {
     "revision": "168b6feb3685be309a58b8be8100dd26",
@@ -60,12 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/wood-table.9e03412e.webp"
   },
   {
-    "revision": "388477960b00961af7050b07ae4a2c9d",
+    "revision": "24035c1e1b2ad6bd86347b24cdc1aac7",
     "url": "/index.html"
   },
   {
-    "revision": "ff1583ba14bfb2c08722",
-    "url": "/js/app~069f6afa.68be5a75.js"
+    "revision": "80886749c17852c2e89c",
+    "url": "/js/app~069f6afa.5d465054.js"
   },
   {
     "revision": "ed1318d5f79befa251d8",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/app~4695c423.7eda9b15.js"
   },
   {
-    "revision": "fed93938231c01a57f58",
-    "url": "/js/app~5a11b65b.84d989b5.js"
+    "revision": "075346b75790f748cb44",
+    "url": "/js/app~5a11b65b.890fbb5a.js"
   },
   {
     "revision": "e571809c69cc384357d4",
@@ -96,12 +96,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-2d0b9d35.da012310.js"
   },
   {
-    "revision": "53b232ac8d42bb49488e",
-    "url": "/js/chunk-3ed1c552.9b9335a5.js"
-  },
-  {
     "revision": "10ad2a974816740c87c8",
     "url": "/js/chunk-72198172.e74da510.js"
+  },
+  {
+    "revision": "376fc66d952148edbe85",
+    "url": "/js/chunk-92f7fec0.355d06eb.js"
   },
   {
     "revision": "b8919bf601f44913e972",
