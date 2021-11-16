@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f07d4c22047c3101376",
-    "url": "/css/app~069f6afa.1a94112c.css"
+    "revision": "771db9a9d84da4d13141",
+    "url": "/css/app~069f6afa.20c4113b.css"
   },
   {
-    "revision": "e089a52a65beee910058",
+    "revision": "bb758ee78e346dbcbb6a",
     "url": "/css/app~5a11b65b.26ec4d09.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-3b5e99ef.3e70109c.css"
   },
   {
-    "revision": "6c1479453f20b92ed386",
-    "url": "/css/chunk-4d993956.3f893716.css"
+    "revision": "f30d766f491bf6ddae48",
+    "url": "/css/chunk-78381dd9.d3412577.css"
   },
   {
     "revision": "2e76443ed83d969aa2ba",
@@ -68,24 +68,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/wood-table.9e03412e.webp"
   },
   {
-    "revision": "d06bff7887749d8e744305488ac2dbc3",
+    "revision": "3270cfc503420df6e6068217e6d7977b",
     "url": "/index.html"
   },
   {
-    "revision": "3f07d4c22047c3101376",
-    "url": "/js/app~069f6afa.e861d12e.js"
+    "revision": "771db9a9d84da4d13141",
+    "url": "/js/app~069f6afa.d283d7c2.js"
   },
   {
-    "revision": "36194972b237803fd749",
-    "url": "/js/app~3aee01c6.5db5b38e.js"
+    "revision": "a34e39b993f9f4c64758",
+    "url": "/js/app~3aee01c6.4cfb5440.js"
   },
   {
     "revision": "81a623cf4ca661df9651",
     "url": "/js/app~4695c423.df435538.js"
   },
   {
-    "revision": "e089a52a65beee910058",
-    "url": "/js/app~5a11b65b.91b40449.js"
+    "revision": "bb758ee78e346dbcbb6a",
+    "url": "/js/app~5a11b65b.30f94efc.js"
   },
   {
     "revision": "187c69c622c226e66714",
@@ -104,8 +104,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-3b5e99ef.2feafcbf.js"
   },
   {
-    "revision": "6c1479453f20b92ed386",
-    "url": "/js/chunk-4d993956.3b5879be.js"
+    "revision": "f30d766f491bf6ddae48",
+    "url": "/js/chunk-78381dd9.7ffed48e.js"
   },
   {
     "revision": "2e76443ed83d969aa2ba",
